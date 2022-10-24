@@ -12,13 +12,13 @@
 
 ## 免root相关
 ### 首次执行：
-* **先引继帐号**，**先引继帐号**，**先引继帐号**，用手机自带的备份应用，或同品牌手机换机备份到另一台手机
-* 备份AuthKey，路径是 手机内部存储/Android/data/jp.co.lifewonders.housamo/files/Data/AuthKey
-* JsHook -> 应用 -> housamo -> 注入Hook服务 -> 卸载再安装 -> 先不要启动Hook，把 **帐号引继** 或者 **进入主界面关闭游戏，覆盖AuthKey** 完成后，进入主界面确认是之前的账号，再启动Hook
+1. **先引继帐号**，**先引继帐号**，**先引继帐号**，用手机自带的备份应用，或同品牌手机换机备份到另一台手机
+2. 备份AuthKey，路径是 手机内部存储/Android/data/jp.co.lifewonders.housamo/files/Data/AuthKey
+3. JsHook -> 应用 -> housamo -> 注入Hook服务 -> 卸载再安装 -> 先不要启动Hook，把 **帐号引继** 或者 **进入主界面关闭游戏，覆盖AuthKey** 完成后，进入主界面确认是之前的账号，再启动Hook
 ### 游戏更新后：
-* 用QooApp之类的下载游戏最新安装包
-* QooApp的下载的安装包路径为 手机内部存储/Android/data/com.qooapp.qoohelper/files/Download/game/jp.co.lifewonders.housamo
-* JsHook -> 安装包注入Hook服务 -> 选择下载的安装包 -> 安装 -> 启动
+1. 用QooApp之类的下载游戏最新安装包
+2. QooApp的下载的安装包路径为 手机内部存储/Android/data/com.qooapp.qoohelper/files/Download/game/jp.co.lifewonders.housamo
+3. JsHook -> 安装包注入Hook服务 -> 选择下载的安装包 -> 安装 -> 启动
   
 ## 预览
 ![image](https://i.imgur.com/33Dyzty.jpg)
