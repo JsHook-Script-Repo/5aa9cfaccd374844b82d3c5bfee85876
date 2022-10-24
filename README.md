@@ -13,7 +13,7 @@
 ## 免root相关
 ### 首次执行：
 * **先引继帐号**，**先引继帐号**，**先引继帐号**，用手机自带的备份应用，或同品牌手机换机备份到另一台手机
-* 备份AuthKey，路径是手机内部存储/Android/data/jp.co.lifewonders.housamo/files/Data/AuthKey
+* 备份AuthKey，路径是 手机内部存储/Android/data/jp.co.lifewonders.housamo/files/Data/AuthKey
 * JsHook -> 应用 -> housamo -> 注入Hook服务 -> 卸载再安装 -> 先不要启动Hook，把**帐号引继**或者**进入主界面关闭游戏，覆盖AuthKey**完成后，进入主界面确认是引继的账号，再启动Hook
 ### 游戏更新后：
 * 用QooApp之类的下载游戏最新安装包
