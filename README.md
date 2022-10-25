@@ -16,7 +16,7 @@
 1. 安装JsHook
 2. 安装黑盒，一般来说安装BlackBox64 https://github.com/FBlackBox/BlackBox/releases
 3. 打开BlackBox64 -> 右上角三点 -> 软件设置 -> 开启进程守护（防止闪退） -> 启动Xposed框架 -> 模块管理 -> 勾选JsHook -> 关闭BlackBox64
-4. 下载以下3个APK，注意查看下载路径
+4. 下载以下3个APK（谷歌三件套），注意查看下载路径
 * https://github.com/xkeyC/x_google_installer/releases/tag/api28
 * https://github.com/xkeyC/x_google_installer/releases/tag/s212417037
 * https://github.com/xkeyC/x_google_installer/releases/tag/st82601710
