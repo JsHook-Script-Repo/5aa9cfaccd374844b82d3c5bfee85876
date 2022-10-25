@@ -15,7 +15,7 @@
 #### 首次执行：
 1. 安装JsHook
 2. 安装黑盒，一般来说安装BlackBox64 https://github.com/FBlackBox/BlackBox/releases
-3. 打开BlackBox64 -> 右上角三点 -> 软件设置 启动Xposed框架 -> 模块管理 -> 勾选JsHook -> 关闭BlackBox64
+3. 打开BlackBox64 -> 右上角三点 -> 软件设置 -> 开启进程守护（防止闪退） -> 启动Xposed框架 -> 模块管理 -> 勾选JsHook -> 关闭BlackBox64
 4. 下载以下3个APK，注意查看下载路径
 * https://github.com/xkeyC/x_google_installer/releases/tag/api28
 * https://github.com/xkeyC/x_google_installer/releases/tag/s212417037
@@ -27,7 +27,7 @@
 9. 复制obb文件 手机内部存储/Android/obb/jp.co.lifewonders.housamo/main.1212.jp.co.lifewonders.housamo.obb 复制到 手机内部存储/Android/data/top.niunaijun.blackboxa64/files/blackbox/storage/emulated/0/Android/obb/jp.co.lifewonders.housamo/main.1212.jp.co.lifewonders.housamo.obb
 10. 打开BlackBox64 -> 打开JsHook -> 框架管理 -> 安装FridaMod
 11. 打开BlackBox64 -> 打开JsHook -> 仓库 -> 下载脚本
-12. 打开BlackBox64 -> 打开JsHook -> 应用 -> housamo -> 启动Hook服务 -> 启动配置(脚本配置) -> 延时设置1000 -> 选择注入框架“FridaMod” -> 启动下载的脚本 -> 运行游戏
+12. 打开BlackBox64 -> 打开JsHook -> 应用 -> housamo -> 启动Hook服务 -> 启动配置（脚本配置） -> 延时设置1000 -> 选择注入框架“FridaMod” -> 启动下载的脚本 -> 运行游戏
 #### 游戏更新后：
 * 应该在外部更新游戏就行了？
 * 如果出现无字情况，请再复制obb文件
