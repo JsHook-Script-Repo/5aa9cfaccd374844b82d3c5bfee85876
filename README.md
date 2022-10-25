@@ -11,14 +11,14 @@
 * 进了战斗想开直接胜利可以长按“属性相性表”按钮2秒，然后需要动一下人物
 
 ## 免root相关
-### 首次执行：
-1. **先引继帐号**，**先引继帐号**，**先引继帐号**，用手机自带的备份应用，或同品牌手机换机备份到另一台手机
-2. 备份AuthKey，要在引继后备份，路径是 手机内部存储/Android/data/jp.co.lifewonders.housamo/files/Data/AuthKey
-3. JsHook -> 应用 -> housamo -> 注入Hook服务 -> 卸载再安装 -> 先不要启动Hook，把 **帐号引继** 或者 **进入主界面关闭游戏，覆盖AuthKey** 完成后，进入主界面确认是之前的账号，再启动Hook
-### 游戏更新后：
-1. 用QooApp之类的下载游戏最新安装包
-2. QooApp的下载的安装包路径为 手机内部存储/Android/data/com.qooapp.qoohelper/files/Download/game/jp.co.lifewonders.housamo
-3. JsHook -> 安装包注入Hook服务 -> 选择下载的安装包 -> 安装 -> 启动
+~### 首次执行：~
+~1. **先引继帐号**，**先引继帐号**，**先引继帐号**，用手机自带的备份应用，或同品牌手机换机备份到另一台手机~
+~2. 备份AuthKey，要在引继后备份，路径是 手机内部存储/Android/data/jp.co.lifewonders.housamo/files/Data/AuthKey
+~3. JsHook -> 应用 -> housamo -> 注入Hook服务 -> 卸载再安装 -> 先不要启动Hook，把 **帐号引继** 或者 **进入主界面关闭游戏，覆盖AuthKey** 完成后，进入主界面确认是之前的账号，再启动Hook~
+~### 游戏更新后：~
+~1. 用QooApp之类的下载游戏最新安装包~
+~2. QooApp的下载的安装包路径为 手机内部存储/Android/data/com.qooapp.qoohelper/files/Download/game/jp.co.lifewonders.housamo~
+~3. JsHook -> 安装包注入Hook服务 -> 选择下载的安装包 -> 安装 -> 启动~
   
 ## 预览
 ![image](https://i.imgur.com/33Dyzty.jpg)
