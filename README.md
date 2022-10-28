@@ -53,7 +53,7 @@ sdcard/Android/data/top.niunaijun.blackboxa64/files/blackbox/storage/emulated/0/
 13. `JsHook`回首页 -> 应用 -> housamo -> 启动Hook服务 -> 启动配置（脚本配置） -> 延时设置1000 -> 选择注入框架`FridaMod` -> 启动下载的脚本
 14. 重启`BlackBox64` -> 运行游戏
 #### 游戏更新后：
-* 应该在外部更新游戏就行了？
+* 外部更新游戏就行了，黑盒内部直接链接外部的应用的
 * 如果出现无字情况，请再复制obb文件
 
 ### 普通方法：
