@@ -13,7 +13,7 @@
 
 ## 模拟器相关
 * 拿`雷电9`举例，其他模拟器自己尝试
-1. 先装好游戏能进入了，建议直接把手机的`sdcard/Android/data/jp.co.lifewonders.housamo`整个打包，解压成模拟器一样路径，AuthKey也在里面了，检查obb文件，谷歌三件套有没有安装
+1. 先装好游戏能进入了，建议直接把手机的`sdcard/Android/data/jp.co.lifewonders.housamo`整个打包，模拟器解压成一样路径，AuthKey也在里面了，检查obb文件，谷歌三件套有没有安装
 2. 模拟器开好`ROOT`，设置`System.vmdk 可写入`
 3. 装`Magisk Delta`的`Canary`版 https://huskydg.github.io/magisk-files/
 4. 进入`Magisk Delta` -> 给`ROOT权限` -> 安装`Magisk` -> 方式选择`安装到系统分区` -> 重启模拟器 -> `Magisk Delta`设置打开`Zygisk`
